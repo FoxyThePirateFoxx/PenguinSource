@@ -1,0 +1,12 @@
+<opencp>
+	<port>6115</port>
+	<ip>0</ip>
+	<type>game</type>
+	<mysql>
+		<host>localhost</host>
+		<username>root</username>
+		<dbname>penguinsource</dbname>
+		<password></password>
+		<userTableName>cpps_users</userTableName>
+	</mysql>
+</opencp>
