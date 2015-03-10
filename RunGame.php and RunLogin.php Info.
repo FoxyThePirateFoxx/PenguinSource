@@ -1,0 +1,29 @@
+
+
+#            _____                    _____          
+#           /\    \                  /\    \         
+#          /::\    \                /::\    \        
+#         /::::\    \              /::::\    \       
+#        /::::::\    \            /::::::\    \      
+#       /:::/\:::\    \          /:::/\:::\    \     
+#      /:::/__\:::\    \        /:::/__\:::\    \    
+#     /::::\   \:::\    \       \:::\   \:::\    \   
+#    /::::::\   \:::\    \    ___\:::\   \:::\    \  
+#   /:::/\:::\   \:::\____\  /\   \:::\   \:::\    \ 
+#  /:::/  \:::\   \:::|    |/::\   \:::\   \:::\____\
+#  \::/    \:::\  /:::|____|\:::\   \:::\   \::/    /
+#   \/_____/\:::\/:::/    /  \:::\   \:::\   \/____/ 
+#            \::::::/    /    \:::\   \:::\    \     
+#             \::::/    /      \:::\   \:::\____\    
+#              \::/____/        \:::\  /:::/    /    
+#               ~~               \:::\/:::/    /     
+#                                 \::::::/    /      
+#                                  \::::/    /       
+#                                   \::/    /        
+#                                    \/____/         
+#                                                    
+
+
+In RunLogin and RunGame, you see at the top: "include" Variables, Example: include "Start/penguinsource"
+In the source, make a folder Called Start and put RunLogin and RunGame and penguinsource there, Do the same for the configs,
+Configs/config.xml and for Plugins, Make a folder called Plugins, Then put in that folder: Basic Plugins, and move Blocked And censor there.
